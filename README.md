@@ -3,7 +3,7 @@
 **Город:** Казань, Россия  
 **Готовность:** удалёнка · переезд  
 **Английский:** A2    
-**Figma:** [смотреть](https://www.figma.com/design/jE8aFRz7zlolQhhB5eIFD5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE?node-id=0-1&p=f&t=aRZ1zh2Usay6eEjm-0)
+**Figma:** [смотреть](https://www.figma.com/design/jE8aFRz7zlolQhhB5eIFD5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE?node-id=0-1&p=f&t=aRZ1zh2Usay6eEjm-0)  
 **Telegram:** @n0v1ik · **Email:** novikov_0.6@bk.ru
 
 ---
