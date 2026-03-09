@@ -2,8 +2,7 @@
 
 **Город:** Казань, Россия  
 **Готовность:** удалёнка · переезд  
-**Английский:** A2  
-**GitHub:** https://github.com/n0vv1k  
+**Английский:** A2    
 **Figma (учебные/простые макеты):** <ВСТАВЬ_ССЫЛКУ>  
 **Telegram:** @n0v1ik · **Email:** novikov_0.6@bk.ru
 
@@ -24,7 +23,6 @@
 **Location:** Kazan, Russia  
 **Open to:** remote · relocation  
 **English:** A2  
-**GitHub:** https://github.com/n0vv1k  
 **Figma (learning/simple UI designs):** <PASTE_LINK>  
 **Telegram:** @n0v1ik · **Email:** novikov_0.6@bk.ru
 
