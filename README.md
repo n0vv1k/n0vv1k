@@ -1,16 +1,33 @@
-## Hi there 👋
+# Novikov Alexandr — Junior+ Fullstack Developer (Laravel)
+## Новиков Александр — Junior+ Fullstack Developer (Laravel)
 
-<!--
-**n0vv1k/n0vv1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Location / Локация:** Kazan, Russia  
+**Open to / Готов к:** Remote · Relocation / Удалёнка · Переезд  
+**English:** A2  
+**GitHub:** https://github.com/n0vv1k  
+**Figma:** <PASTE_YOUR_LINK_HERE>  
+**Telegram:** @n0v1ik · **Email:** novikov_0.6@bk.ru
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🇷🇺 Русский
+
+Я fullstack-разработчик (Laravel). Делаю веб-приложения от верстки до БД и API: интерфейс, бизнес-логика, связи, валидация, авторизация.
+
+**Стек:** HTML/CSS(SASS), JavaScript, PHP, Laravel, MySQL, Git, Postman, Figma
+
+**Ищу:** стажировку/Junior+ позицию и небольшие задачи на фрилансе.  
+**Проекты:** закреплены в профиле (Pinned).  
+**Дизайн-макеты:** по ссылке на Figma выше.
+
+---
+
+# 🇬🇧 English
+
+I’m a junior+ fullstack developer focused on Laravel. I build web apps end-to-end: UI, business logic, database relations, validation, auth, and basic APIs.
+
+**Stack:** HTML/CSS(SASS), JavaScript, PHP, Laravel, MySQL, Git, Postman, Figma
+
+**Looking for:** internship / junior+ role and small freelance tasks.  
+**Projects:** pinned on my profile.  
+**Design portfolio:** see the Figma link above.
