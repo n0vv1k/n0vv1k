@@ -1,10 +1,10 @@
 # Новиков Александр — Junior+ Fullstack Developer (Laravel)
 
-**Город:** Казань, Россия
-**Готовность:** удалёнка · переезд
-**Английский:** A2
-**Telegram:** @n0v1ik
-**Email:** [novikov_0.6@bk.ru](mailto:novikov_0.6@bk.ru)
+**Город:** Казань, Россия  
+**Готовность:** удалёнка · переезд  
+**Английский:** A2  
+**Telegram:** @n0v1ik  
+**Email:** [novikov_0.6@bk.ru](mailto:novikov_0.6@bk.ru)  
 
 ---
 
