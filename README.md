@@ -1,39 +1,54 @@
 # Новиков Александр — Junior+ Fullstack Developer (Laravel)
 
-**Город:** Казань, Россия  
-**Готовность:** удалёнка · переезд  
-**Английский:** A2    
-**Figma:** [смотреть](https://www.figma.com/design/jE8aFRz7zlolQhhB5eIFD5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE?node-id=0-1&p=f&t=aRZ1zh2Usay6eEjm-0)  
-**Telegram:** @n0v1ik  
-**Email:** novikov_0.6@bk.ru
+**Город:** Казань, Россия
+**Готовность:** удалёнка · переезд
+**Английский:** A2
+**Telegram:** @n0v1ik
+**Email:** [novikov_0.6@bk.ru](mailto:novikov_0.6@bk.ru)
 
 ---
 
 ## О себе
-Я fullstack-разработчик на Laravel. Делаю веб-приложения от верстки до БД и API: интерфейс, бизнес-логика, связи, валидация, авторизация.
 
-**Стек:** HTML/CSS(SASS), JavaScript, React, PHP, Laravel, MySQL, Git, Postman, Figma
-
-**Ищу:** стажировку/Junior+ позицию и небольшие задачи на фрилансе.  
-**Проекты:** закреплены в профиле (Pinned).
+Fullstack разработчик (Laravel + React). Создаю веб-приложения и сайты под ключ: от дизайна и верстки до backend и API.
 
 ---
 
-# Novikov Alexandr — Junior+ Fullstack Developer (Laravel)
+## 💻 Что умею
 
-**Location:** Kazan, Russia  
-**Open to:** remote · relocation  
-**English:** A2  
-**Figma:** [to watch](https://www.figma.com/design/jE8aFRz7zlolQhhB5eIFD5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE?node-id=0-1&p=f&t=aRZ1zh2Usay6eEjm-0)    
-**Telegram:** @n0v1ik  
-**Email:** novikov_0.6@bk.ru
+### Backend (Laravel)
+
+* Разработка REST API
+* Авторизация (JWT / Sanctum)
+* Работа с БД (MySQL, связи, миграции)
+* Валидация и бизнес-логика
+* CRUD системы
+
+### Frontend (React / JS)
+
+* Интерфейсы на React
+* Работа с API
+* Управление состоянием
+* Адаптивная верстка
+* UI/UX (чистый и понятный интерфейс)
+
+### Верстка и сайты
+
+* Лендинги (адаптивные, pixel-perfect)
+* Многостраничные сайты
+* Работа с Figma
+* CSS / SASS
+* Анимации и интерактив
+
+### Дополнительно
+
+* Интеграция внешних API (карты, события)
+* Git (GitHub workflow)
+* Postman (тестирование API)
 
 ---
 
-## About
-I’m a junior+ fullstack developer focused on Laravel. I build web apps end-to-end: UI, business logic, database relations, validation, auth, and basic APIs.
+## 📌 Цель
 
-**Stack:** HTML/CSS(SASS), JavaScript, React, PHP, Laravel, MySQL, Git, Postman, Figma
-
-**Looking for:** internship / junior+ role and small freelance tasks.  
-**Projects:** pinned on my profile.
+Ищу позицию Junior / Junior+ разработчика или задачи на фрилансе.
+Интересны проекты, где можно развиваться в fullstack разработке.
