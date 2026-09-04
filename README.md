@@ -1,62 +1,43 @@
-# Новиков Александр — Junior+ Fullstack Developer (Laravel)
+# Aleksandr Novikov
 
-**Город:** Казань, Россия  
-**Готовность:** удалёнка · переезд  
-**Английский:** A2  
-**Telegram:** @n0v1ik  
-**Email:** [novikov_0.6@bk.ru](mailto:novikov_0.6@bk.ru)  
-**Figma:** [ссылка](https://www.figma.com/design/jE8aFRz7zlolQhhB5eIFD5/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE)  
+Frontend Engineer specializing in JavaScript (ES6+), TypeScript, and React ecosystem. Experienced in building responsive, accessible, and performant web interfaces with modern tooling (Vite, Tailwind CSS, Docker). Solid foundation in browser internals, asynchronous programming, algorithms, and backend integration (REST APIs).
 
----
-
-## О себе
-
-Fullstack разработчик (Laravel + React). Создаю веб-приложения и сайты под ключ: от дизайна и верстки до backend и API.
+- 📍 Location: Kazan, Russia (Open to Remote / Hybrid / Relocation)
+- 🎓 Education: B.S. in Computer Science (AI & CAD), KNRTU-KAI (2026–2030) | Multimedia & Web Development, MCK-KTITS (Honors Degree, 2022–2026)
+- 💼 Focus: Frontend Intern / Junior Engineer
+- ✉️ Contact: [novikov_0.6@bk.ru](mailto:novikov_0.6@bk.ru) | Telegram: [@n0v1ik](https://t.me/n0v1ik)
 
 ---
 
-## 💻 Что умею
+### 💻 Technical Skills
 
-### Backend (Laravel)
-
-* Разработка REST API
-* Авторизация (JWT / Sanctum)
-* Работа с БД (MySQL, связи, миграции)
-* Валидация и бизнес-логика
-* CRUD системы
-
-### Frontend (React / JS)
-
-* Интерфейсы на React
-* Работа с API
-* Управление состоянием
-* Адаптивная верстка
-* UI/UX (чистый и понятный интерфейс)
-
-### Верстка и сайты
-
-* Лендинги (адаптивные, pixel-perfect)
-* Многостраничные сайты
-* Работа с Figma
-* CSS / SASS
-* Анимации и интерактив
-
-### Веб-дизайн (Figma)
-
-* Создание макетов интерфейсов
-* Проектирование UI/UX
-* Подготовка дизайна под разработку
-* Работа с компонентами и стилями
-
-### Дополнительно
-
-* Интеграция внешних API (карты, события)
-* Git (GitHub workflow)
-* Postman (тестирование API)
+- **Languages:** JavaScript (ES6+, DOM, Event Loop, Closures, Async/Await), TypeScript, HTML5 (Semantic, Accessibility), CSS3
+- **Frameworks & State Management:** React (Hooks, Context API, Component Lifecycle), Next.js (SSR/SSG fundamentals)
+- **Styling & UI:** Tailwind CSS, SCSS, CSS Modules, Responsive & Adaptive Layouts, Pixel-Perfect Figma Implementation
+- **Tools & Build Systems:** Vite, Webpack, Git, GitHub Actions, Docker, Postman, npm, yarn, Linux CLI
+- **Architecture & Performance:** REST API Integration, JSON Contracts, Core Web Vitals Optimization, Lazy Loading, Client-Side Validation
+- **Computer Science Fundamentals:** Data Structures (Arrays, Hash Maps, Sets, Stacks/Queues), Two Pointers, Sliding Window, Big O Analysis
 
 ---
 
-## 📌 Цель
+### 🚀 Featured Repositories
 
-Ищу позицию Junior+ / Middle разработчика или задачи на фрилансе.
-Интересны проекты, где можно развиваться в fullstack разработке.
+#### [react-data-explorer](https://github.com/n0vv1k) <!-- Замени на точную ссылку на репозиторий -->
+Interactive single-page dashboard built with modern React architecture consuming a public REST API.
+- **Stack:** React, TypeScript, Vite, Tailwind CSS, LocalStorage API
+- **Key Highlights:** Strictly typed API response models, custom asynchronous hooks (`useDebounce`, `useFetch`), client-side pagination, sorting, and search filtering.
+- 🔗 [Source Code](https://github.com/n0vv1k) | 🌐 [Live Preview](https://github.com/n0vv1k)
+
+#### [web-client-showcase](https://github.com/n0vv1k) <!-- Замени на точную ссылку на репозиторий -->
+Responsive product catalog interface emphasizing Web Performance and accessibility standards.
+- **Stack:** JavaScript (ES6+), React, Vite, Postman, Docker
+- **Key Highlights:** Docker containerized local development environment, Core Web Vitals optimization (>90 score in Lighthouse), reusable component design.
+- 🔗 [Source Code](https://github.com/n0vv1k) | 🌐 [Live Preview](https://github.com/n0vv1k)
+
+---
+
+### 📈 Activity & Workflow Standards
+
+- Strict adherence to [Conventional Commits](https://www.conventionalcommits.org/) (`feat:`, `fix:`, `refactor:`, `docs:`)
+- Clean architecture and modular folder structure (`src/components`, `src/hooks`, `src/services`, `src/types`)
+- Active daily LeetCode / competitive programming training (focusing on Arrays, Hash Tables, Strings, Two Pointers)
